@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/temperature-monitor/static/css/main.e6c13ad2.css",
+    "main.js": "/temperature-monitor/static/js/main.49335fcf.js",
+    "static/js/453.7ba8e248.chunk.js": "/temperature-monitor/static/js/453.7ba8e248.chunk.js",
+    "index.html": "/temperature-monitor/index.html",
+    "main.e6c13ad2.css.map": "/temperature-monitor/static/css/main.e6c13ad2.css.map",
+    "main.49335fcf.js.map": "/temperature-monitor/static/js/main.49335fcf.js.map",
+    "453.7ba8e248.chunk.js.map": "/temperature-monitor/static/js/453.7ba8e248.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.49335fcf.js"
+  ]
+}
