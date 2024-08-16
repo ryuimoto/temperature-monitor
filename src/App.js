@@ -35,6 +35,7 @@ function App(){
       <header className="App-header">
         <h1>現在の時間：{currentTime}</h1>
         <h2>現在の気温：{temperature ?`${temperature}°C`: 'Loading..'}</h2>
+        <h2>これはてスト</h2>
       </header>
     </div>
   );
