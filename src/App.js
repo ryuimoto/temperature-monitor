@@ -17,7 +17,7 @@ function App(){
 
   const fetchTemperature = async () =>{
     try{
-      const response = await axios.get('http://yourserver.com/temperature');
+      const response = await axios.get('https://ryuimoto.github.io/temperature-monitor/');
       setTemperature(response.data.temperature);
       if(response.data.temperature >= 35){
         setWarning('熱中症注意');
