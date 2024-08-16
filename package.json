@@ -41,6 +41,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
-  
+  },
+  "proxy": "https://ryuimoto.github.io/temperature-monitor/"
 }
